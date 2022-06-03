@@ -1,2 +1,2 @@
-# keylogger-con-python
-¿Quieres aprender a hacer un Keylogger con Python? En esta revista te enseño y te explico como puedes hacer uno usando Python.
+# Keylogger con python
+Keylogger con Python es un manual donde te enseñare a como programar un Keylogger utilizando el lenguaje Python. Aquí te explico detalladamente los pasos del código según cada línea, para que entiendas el proceso detrás del Keylogger.
