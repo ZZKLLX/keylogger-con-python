@@ -8,3 +8,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=FF0000&lines=MEGA%3A)](https://git.io/typing-svg)
 
 https://mega.nz/file/7nwEQazb#Fjdg3I05eUElXelelsj2u5XYiWzcCcMGk7SNOIwa3t4
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=0060FF&lines=MEDIAFIRE)](https://git.io/typing-svg)
+
+https://www.mediafire.com/file/1u81mgt2gje03fo/KEYLOGGER_CON_PYTHON.pdf/file
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=FF8F02&lines=LEER+ONLINE%3A)](https://git.io/typing-svg)
+
+https://www.yumpu.com/es/document/view/66966323/keylogger-con-python
+
